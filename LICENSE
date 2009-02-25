@@ -1,4 +1,4 @@
-deviceconf, a multi input device configuration and mapping library
+littlepiggies is lightweight widgets library for pyglet.
 Copyright (C) 2008 Florian Boesch <pyalot@gmail.com>
 
 This program is free software: you can redistribute it and/or modify
